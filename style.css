@@ -1,0 +1,96 @@
+.header{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20%;
+    margin-bottom: 20% ;
+
+}
+
+.nav-item{
+    color: pink;
+}
+
+.next-sec{
+    margin: auto;
+    text-align: right;
+    /* font-size: 50px; */
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.about{
+    background-color: black ;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    margin-
+}
+
+.insta{
+    color: white;
+}
+
+.start{
+    color: white;
+    font-weight: lighter;
+}
+
+.end{
+    margin-top: 4%;
+    color: grey;
+    font-weight: bold;
+}
+
+.works{
+ color:black;
+ padding-top: 10%;
+
+}
+
+.serenity{
+    text-align: center;
+    margin-top: 30%;
+}
+.what{
+    margin-top:6%;
+    margin-bottom: 6%;
+    font-style:;
+}   
+
+.hi {
+    display: flex;
+    flex-direction: row;
+  }
+  .hi :nth-child(1) { order: 2; }
+  .hi :nth-child(2) { order: 1; }
+
+
+  .talanku{
+      margin-top: 10%;
+      text-align-last: center;
+      /* margin-top: 40% ; */
+  }
+
+  .ikolilu{
+      margin-top: 20%;
+      text-align: center;
+  }
+  .Talanku{
+      margin-top: 15%;
+  }
+
+  #about{
+      scroll-behavior: smooth;
+  }
+
+  .footer{
+      background-color:black;
+      color: white;
+    font-family: 'Roboto', sans-serif;
+      padding-top:10%;
+      padding-bottom: 10%;
+  }
