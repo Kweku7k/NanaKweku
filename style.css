@@ -94,3 +94,11 @@
       padding-top:10%;
       padding-bottom: 10%;
   }
+
+  @media (min-width: 320px) and (max-width: 480px) {
+  
+    #img{
+        width: 100%;
+    }
+    
+  }
